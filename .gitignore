@@ -5,3 +5,4 @@ bower_components
 nbproject
 coverage
 .idea/
+package-lock.json
